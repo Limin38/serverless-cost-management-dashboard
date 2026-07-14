@@ -1,0 +1,17 @@
+Type_year,country_code,RDC,Cost_Category,Cost_Category_desc,int_account_2,int_account_2_desc,Total
+Plan-01-2026,Region_A,HQ,400100,IT Software,600100,IT Costs,15500.00
+Plan-02-2026,Region_A,HQ,400100,IT Software,600100,IT Costs,15500.00
+Plan-03-2026,Region_A,HQ,400100,IT Software,600100,IT Costs,15500.00
+Plan-04-2026,Region_A,HQ,400100,IT Software,600100,IT Costs,15500.00
+Plan-01-2026,Region_A,HQ,400200,Consultancy,600200,Professional Fees - IT,10000.00
+Plan-04-2026,Region_A,HQ,400200,Consultancy,600200,Professional Fees - IT,10000.00
+Plan-01-2026,Region_A,HQ,500100,Advertising,700100,Booking Fees,22000.00
+Plan-02-2026,Region_A,HQ,300100,Store Equipment,800100,Sales Area,12500.00
+Plan-03-2026,Region_A,HQ,600100,Internal Comms,900100,Corporate Affairs,8000.00
+Plan-01-2026,Region_B,NORTH,400100,IT Software,600100,IT Costs,18000.00
+Plan-03-2026,Region_B,NORTH,400100,IT Software,600100,IT Costs,18000.00
+Plan-02-2026,Region_B,NORTH,500100,Advertising,700100,Booking Fees,25000.00
+Plan-04-2026,Region_B,NORTH,300100,Store Equipment,800100,Sales Area,12000.00
+Plan-03-2026,Region_B,SOUTH,300100,Store Equipment,800100,Sales Area,14500.00
+Plan-04-2026,Region_B,SOUTH,600100,Internal Comms,900100,Corporate Affairs,8500.00
+Plan-01-2026,Region_B,EAST,600100,Internal Comms,900100,Corporate Affairs,9500.00

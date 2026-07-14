@@ -1,0 +1,13 @@
+Financial_year,Posting_Period,Document_Date,Booking_date,Country,Creditor_Debtor,Cost_Centre_No,Cost_category,Cost_category_desc,Int_Account_2,Int_Account_2_desc,Document_number,Reference_document,Position_text,Amount,Document_type
+2026.0,1.0,2026-03-05,2026-03-06,Region_A,HQ - TechCorp Solutions,CC1001,400100,IT Software,600100,IT Costs,192837465,REF-001,Monthly Cloud Hosting,15000.00,RE
+2026.0,1.0,2026-03-10,2026-03-11,Region_A,HQ - Consulting Group LLC,CC1002,400200,Consultancy,600200,Professional Fees - IT,192837466,REF-002,Security Audit Q1,8500.00,RE
+2026.0,1.0,2026-03-15,2026-03-16,Region_A,HQ - Global Media,CC2001,500100,Advertising,700100,Booking Fees,192837480,REF-010,Digital Ads,23500.00,RE
+2026.0,2.0,2026-04-12,2026-04-14,Region_B,NOR - Global Media,CC2001,500100,Advertising,700100,Booking Fees,192837467,REF-003,Spring Campaign,24500.00,RE
+2026.0,2.0,2026-04-15,2026-04-16,Region_A,HQ - TechCorp Solutions,CC1001,400100,IT Software,600100,IT Costs,192837468,REF-004,Monthly Cloud Hosting,15000.00,RE
+2026.0,3.0,2026-05-01,2026-05-02,Region_B,SOU - Store Supplies,CC3001,300100,Store Equipment,800100,Sales Area,192837469,REF-005,Checkout Displays,13200.00,RE
+2026.0,3.0,2026-05-05,2026-05-05,Region_B,NOR - TechCorp Solutions,CC1001,400100,IT Software,600100,IT Costs,192837470,REF-006,Regional Server Setup,17500.00,RE
+2026.0,3.0,2026-05-10,2026-05-11,Region_A,HQ - PR Dynamics,CC4001,600100,Internal Comms,900100,Corporate Affairs,192837471,REF-007,Townhall Event Production,8200.00,RE
+2026.0,4.0,2026-06-02,2026-06-03,Region_A,HQ - TechCorp Solutions,CC1001,400100,IT Software,600100,IT Costs,192837481,REF-011,Monthly Cloud Hosting,15000.00,RE
+2026.0,4.0,2026-06-14,2026-06-15,Region_B,SOU - PR Dynamics,CC4001,600100,Internal Comms,900100,Corporate Affairs,192837482,REF-012,Summer Event Comm,7500.00,RE
+2026.0,4.0,2026-06-20,2026-06-21,Region_B,NOR - Store Supplies,CC3001,300100,Store Equipment,800100,Sales Area,192837483,REF-013,Window Displays,11400.00,RE
+2026.0,4.0,2026-06-25,2026-06-26,Region_A,HQ - Consulting Group LLC,CC1002,400200,Consultancy,600200,Professional Fees - IT,192837484,REF-014,Security Audit Q2,8500.00,RE
